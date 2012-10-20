@@ -51,7 +51,7 @@ p {
 /* Layout */
 body {
 	height:100%;
-	font-family:'�q���M�m�p�S Pro W3','Hiragino Kaku Gothic Pro','���C���I',Meiryo,'�l�r �o�S�V�b�N',sans-serif;
+	font-family:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-align: center;
 }
 #outerwrapper {
@@ -228,10 +228,11 @@ body.L1R1 #RightColumn {
 	margin-left:10px;
 	margin-top:-15px;
 }
-
+/* Googlemapが表示できなくなったので、コメントアウトした。 
 #CenterColumn img {
 	max-width:98%;
 }
+*/
 
 * html body.L1R1 #CenterColumn { /* IE6 */
   width:540px;
