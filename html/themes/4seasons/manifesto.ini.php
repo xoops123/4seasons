@@ -5,7 +5,7 @@
 Name="4seasons"
 Depends=Legacy_RenderSystem,legacy
 Url="http://xoops123.com/"
-Version="1.01"
+Version="1.02"
 
 [Theme]
 RenderSystem=Legacy_RenderSystem
